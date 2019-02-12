@@ -1,6 +1,6 @@
 {
   "name": "number-separator",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "Return all possible combinations of numbers from string",
   "license": "MIT",
   "repository": "TechnologyGeek12/number-separator",
