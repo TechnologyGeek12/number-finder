@@ -1,6 +1,6 @@
 {
   "name": "number-finder",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Return all possible combinations of numbers from string",
   "license": "MIT",
   "repository": "TechnologyGeek12/number-finder",
