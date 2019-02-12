@@ -1,13 +1,13 @@
 {
-  "name": "number-seprator",
+  "name": "number-separator",
   "version": "1.0.1",
   "description": "Return all possible combinations of numbers from string",
   "license": "MIT",
-  "repository": "TechnologyGeek12/number-seprator",
+  "repository": "TechnologyGeek12/number-separator",
   "main": "index.js",
   "keywords": [
     "Number Extractor",
-    "Number Seprator",
+    "Number separator",
     "npm",
     "package"
   ]
