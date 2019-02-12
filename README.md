@@ -1,6 +1,6 @@
 # Number Finder
 <img src="https://img.shields.io/badge/Licence-MIT-blue.svg" alt="Licence" data-canonical-src="https://img.shields.io/badge/Licence-MIT-blue.svg" style="max-width:100%;"/>
-<img src="https://img.shields.io/badge/Version-1.0.7-brightgreen.svg" alt="npm Version" data-canonical-src="https://img.shields.io/badge/Version-1.0.7-brightgreen.svg" style="max-width:100%;"/>
+<img src="https://img.shields.io/badge/Version-1.0.8-brightgreen.svg" alt="npm Version" data-canonical-src="https://img.shields.io/badge/Version-1.0.8-brightgreen.svg" style="max-width:100%;"/>
 
 A Node.js package that check and extract all the available numbers in from the given string. And return all the possible different combinations and format for the numbers containing in input string.
 A basis number finder npm package.
