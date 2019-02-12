@@ -1,4 +1,4 @@
-module.exports = function numberSeparator(string) {
+module.exports = function numberFinder(string) {
   if (typeof string !== "string") throw new TypeError("Number Extractor wants a string!");
   if (!isNaN(parseInt(string.replace(/\D/g, '')))) {
     let numberTypeArray = string.match(/\d+/g).map(Number);
