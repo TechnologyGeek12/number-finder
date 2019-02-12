@@ -1,0 +1,23 @@
+{
+  "name": "number-seprator",
+  "version": "1.0.0",
+  "description": "Return all possible combinations of numbers from string",
+  "license": "MIT",
+  "repository": "gaurav/Number Extractor",
+  "main": "index.js",
+  "keywords": [
+    "Number Extractor",
+    "Number Seprator",
+    "npm",
+    "package"
+  ],
+  "dependencies": {
+    "react": "^15.5.4",
+    "webpack": "^2.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch",
+    "build": "webpack"
+  }
+}
